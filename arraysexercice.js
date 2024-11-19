@@ -4,3 +4,7 @@ console.log(number);
 // exercice2
 let fruit=["apple", "banana", "cherry"];
 console.log(fruit[1]);
+// exercice3
+let nombre=[10, 20, 30, 40];
+nombre[2]=50;
+console.log(nombre);
