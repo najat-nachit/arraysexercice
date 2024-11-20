@@ -13,3 +13,7 @@ let tabA=[1, 2, 3];
 let tabB=[4, 5, 6];
 let tabfusionne=tabA.concat(tabB);
 console.log(tabfusionne);
+//exercice14
+let fruits=["apple", "banana", "cherry", "date"];
+fruits.splice(1,1)
+console.log(fruits)
