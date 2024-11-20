@@ -8,3 +8,8 @@ let numberpair= number.filter(function(pair){
     return pair %2===0
 });
 console.log(numberpair);
+//exercice13
+let tabA=[1, 2, 3];
+let tabB=[4, 5, 6];
+let tabfusionne=tabA.concat(tabB);
+console.log(tabfusionne);
