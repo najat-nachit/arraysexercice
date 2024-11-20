@@ -32,3 +32,9 @@ console.log(book);
 let car={make:"toyota", model:"corolla"};
 car.year=2020;
 console.log(car);
+//exxercice 10
+let personn={name:"jack", age:28};
+if(personn.age) 
+    {console.log("true.");}
+else
+    {console.log("false.");}
