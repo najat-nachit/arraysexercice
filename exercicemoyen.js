@@ -23,3 +23,10 @@ function croissante(a,b)
 {return(a-b);}
 numbers.sort(croissante);
 console.log(numbers);
+//exercice16
+let num=[1, 2, 3, 4];
+let multiplication=num.map(function(i){
+    return i*2;
+});
+console.log(multiplication)
+
