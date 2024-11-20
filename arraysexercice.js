@@ -16,4 +16,8 @@ console.log(fruits);
 let animals=["dog", "cat", "bird"];
 animals.pop();
 console.log(animals);
+//exercice6
+const personne={name:"alice", age:30};
+console.log("name:", personne.name);
+console.log("age:", personne.age);
 
