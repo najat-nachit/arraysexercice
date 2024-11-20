@@ -24,3 +24,7 @@ console.log("age:", personne.age);
 const person={name:"john", age:25};
 console.log("name:", person.name);
 console.log("age:", person.age);
+//exercice 8
+let book={title:"java script 101", author:"john doe"};
+book.author="jane doe";
+console.log(book);
