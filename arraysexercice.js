@@ -20,4 +20,7 @@ console.log(animals);
 const personne={name:"alice", age:30};
 console.log("name:", personne.name);
 console.log("age:", personne.age);
-
+//exercice 7
+const person={name:"john", age:25};
+console.log("name:", person.name);
+console.log("age:", person.age);
