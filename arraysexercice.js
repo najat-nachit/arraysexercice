@@ -28,3 +28,7 @@ console.log("age:", person.age);
 let book={title:"java script 101", author:"john doe"};
 book.author="jane doe";
 console.log(book);
+//exercice 9
+let car={make:"toyota", model:"corolla"};
+car.year=2020;
+console.log(car);
