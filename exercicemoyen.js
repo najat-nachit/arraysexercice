@@ -17,3 +17,9 @@ console.log(tabfusionne);
 let fruits=["apple", "banana", "cherry", "date"];
 fruits.splice(1,1)
 console.log(fruits)
+//exercice15
+let numbers=[5, 1, 8, 4, 7];
+function croissante(a,b)
+{return(a-b);}
+numbers.sort(croissante);
+console.log(numbers);
